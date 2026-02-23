@@ -1,0 +1,5 @@
+{
+  "name": "VIXORA — Nutrição IA",
+  "description": "Plano alimentar personalizado com IA. Análise de fotos, chatbot nutricionista e cardápio semanal adaptado ao seu objetivo.",
+  "requestFramePermissions": ["camera"]
+}
